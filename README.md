@@ -1,4 +1,4 @@
-# Learning Vision-based Policy for High-Speed Autonomous racing
+# Learning Vision-based Policy for High-Speed Autonomous Racing
 
 This is the repository of the F1TENTH Gym environment, aiming to train vision-based racing policy.
 
@@ -28,8 +28,4 @@ python3 train_dagger_with_dagger.py
 ```
 
 ## Citing
-If you find this Gym environment useful, please consider citing:
-
-```
-xxx
-```
+This code is based on the F1TENTH Gym environment. https://github.com/f1tenth/f1tenth_gym.git
